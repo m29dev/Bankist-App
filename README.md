@@ -1,6 +1,6 @@
 #bank project from javaScript course by Jonas Schmedtmann
 
-Created account for test purpuses:
+Created accounts for test purpuses:
 1. Michal Majchrzak |login: mm  |pin: 7777
 2. Jerry Kowalski   |login: jk  |pin: 1234
 
